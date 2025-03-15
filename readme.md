@@ -20,7 +20,7 @@ data: /mcp/testname/test_session_id
 ```
 
 3. run inspector
-> the old version can not 
+> the old version can not connect success
 ```
 npx -y @modelcontextprotocol/inspector
 ```
